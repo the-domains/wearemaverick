@@ -6,9 +6,9 @@ color:
   saturation: 0.44780629174783826
   rhythmicContrast: 0.10076316562481225
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: WeAreMaverick
