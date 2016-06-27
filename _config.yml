@@ -1,0 +1,14 @@
+layout_spectrum: 0.8969342878554016
+typography_spectrum: 0.6191173570696265
+color:
+  brandStrength: 0.8019977298099548
+  lightness: 0.9904177656862885
+  saturation: 0.44780629174783826
+  rhythmicContrast: 0.10076316562481225
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: WeAreMaverick
